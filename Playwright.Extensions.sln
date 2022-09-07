@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playwright.Extension.Tests", "Playwright.Extension.Tests\Playwright.Extension.Tests.csproj", "{A4A5D9EA-9D79-45BD-9424-D7B28E4F1F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playwright.Common", "Playwright.Extensions.Common\Playwright.Common.csproj", "{1ED199B4-A1CE-48BB-B972-7DDA07718E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A5D9EA-9D79-45BD-9424-D7B28E4F1F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A5D9EA-9D79-45BD-9424-D7B28E4F1F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A5D9EA-9D79-45BD-9424-D7B28E4F1F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A5D9EA-9D79-45BD-9424-D7B28E4F1F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED199B4-A1CE-48BB-B972-7DDA07718E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED199B4-A1CE-48BB-B972-7DDA07718E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED199B4-A1CE-48BB-B972-7DDA07718E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED199B4-A1CE-48BB-B972-7DDA07718E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C78A456-5151-4CD9-9B45-599733F216F8}
+	EndGlobalSection
+EndGlobal
