@@ -5,6 +5,7 @@ Open the solution in Visual Studio or
 
 dotnet restore
 dotnet build
+
 After that you should install the playwright stuff (browsers etc)
 
 It installed a handy powershell in your project's bin directory that you should run.
