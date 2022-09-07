@@ -1,7 +1,7 @@
 ﻿using Microsoft.Playwright;
 using NUnit.Framework;
 
-namespace Playwright.Common
+namespace Playwright.Common.Helpers
 {
     public static class TraceRecorderHelper
     {

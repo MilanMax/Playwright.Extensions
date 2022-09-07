@@ -1,4 +1,6 @@
 
+using Playwright.Common.Helpers;
+
 namespace Playwright.Extension.Tests;
 
 public class BankingProjectTestSet : PageTest
