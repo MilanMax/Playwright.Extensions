@@ -14,6 +14,6 @@ Now you can run the tests from command line or VS.
 
 dotnet test
 
-#There are two playwright.sharp (playwright.nunit) extensions:
+# There are two playwright.sharp (playwright.nunit) extensions:
 1. Expect method is now avalable with info message if the expected condition is NOT met. 
 2. Trace recording is now available only for failed tests
