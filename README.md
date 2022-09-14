@@ -1,6 +1,7 @@
 # Playwright.Extensions
 
-Run playwright on your machine
+Run playwright on your machine:
+
 Open the solution in Visual Studio or
 
 dotnet restore
